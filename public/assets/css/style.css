@@ -1,0 +1,214 @@
+/**
+ * ملف CSS الرئيسي للنظام
+ */
+
+/* الخطوط */
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700&display=swap');
+
+/* إعدادات عامة */
+body {
+    font-family: 'Tajawal', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* شريط التنقل العلوي */
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+/* القائمة الجانبية */
+.sidebar {
+    position: fixed;
+    top: 56px;
+    bottom: 0;
+    right: 0;
+    z-index: 100;
+    padding: 48px 0 0;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.05);
+}
+
+.sidebar .nav-link {
+    font-weight: 500;
+    color: #333;
+    padding: 0.75rem 1rem;
+    border-radius: 0;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #f8f9fa;
+}
+
+.sidebar .nav-link.active {
+    color: #fff;
+    background-color: #0d6efd;
+}
+
+.sidebar .nav-link i {
+    margin-left: 10px;
+    width: 20px;
+    text-align: center;
+}
+
+/* المحتوى الرئيسي */
+.main-content {
+    margin-right: 240px;
+    padding: 20px;
+}
+
+/* البطاقات */
+.card {
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #eee;
+    padding: 15px;
+}
+
+.card-title {
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+/* الجداول */
+.table th {
+    font-weight: 600;
+    background-color: #f8f9fa;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f5f5f5;
+}
+
+/* الأزرار */
+.btn {
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.btn-success {
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    padding: 0;
+    line-height: 1;
+}
+
+/* النماذج */
+.form-label {
+    font-weight: 500;
+}
+
+.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+/* التنبيهات */
+.alert {
+    border-radius: 4px;
+    padding: 12px 15px;
+}
+
+/* تذييل الصفحة */
+.footer {
+    padding: 1rem 0;
+    margin-top: 2rem;
+    background-color: #f8f9fa;
+    border-top: 1px solid #eee;
+}
+
+/* وسائط للشاشات الصغيرة */
+@media (max-width: 767.98px) {
+    .sidebar {
+        position: relative;
+        top: 0;
+        padding-top: 0;
+    }
+    
+    .main-content {
+        margin-right: 0;
+    }
+}
+
+/* أنماط مخصصة للإحصائيات */
+.stats-card {
+    min-height: 120px;
+}
+
+.stats-card .card-title {
+    font-size: 1rem;
+}
+
+.stats-card .card-text {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+/* الصور والشعارات */
+.logo {
+    max-height: 40px;
+}
+
+.img-user {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* أيقونات الحالة */
+.status-badge {
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.status-active {
+    background-color: #d1e7dd;
+    color: #0f5132;
+}
+
+.status-pending {
+    background-color: #fff3cd;
+    color: #664d03;
+}
+
+.status-completed {
+    background-color: #cff4fc;
+    color: #055160;
+}
+
+.status-canceled {
+    background-color: #f8d7da;
+    color: #842029;
+}
