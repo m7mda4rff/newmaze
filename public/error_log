@@ -835,3 +835,152 @@ Stack trace:
 [13-Mar-2025 10:26:29 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
 [13-Mar-2025 10:26:29 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
 [13-Mar-2025 10:26:29 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:31:23 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:31:23 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:31:23 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:31:24 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:33:20 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:33:20 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 13
+[13-Mar-2025 10:33:20 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 13
+[13-Mar-2025 10:33:20 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:33:20 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 13
+[13-Mar-2025 10:33:20 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 13
+[13-Mar-2025 10:33:54 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:33:54 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 13
+[13-Mar-2025 10:33:54 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 13
+[13-Mar-2025 10:33:55 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:33:55 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 13
+[13-Mar-2025 10:33:55 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 13
+[13-Mar-2025 10:34:23 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:34:23 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Customer.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:23 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Customer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Customer.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Customer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Customer.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Customer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Customer.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:24 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Customer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:27 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:34:27 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Customer.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:27 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Customer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:28 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:34:28 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Customer.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:34:28 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Customer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/index.php on line 15
+[13-Mar-2025 10:35:08 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:35:08 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/hashtagw/public_html/maze/classes/Customer.php on line 151
+[13-Mar-2025 10:35:08 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:35:08 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/hashtagw/public_html/maze/classes/Customer.php on line 151
+[13-Mar-2025 10:35:47 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:35:48 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:35:48 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:35:52 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:35:52 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/add.php on line 13
+[13-Mar-2025 10:35:52 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/add.php on line 13
+[13-Mar-2025 10:35:52 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:35:52 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/add.php on line 13
+[13-Mar-2025 10:35:52 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/add.php on line 13
+[13-Mar-2025 10:37:42 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:37:42 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:37:43 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:37:57 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:37:57 Asia/Riyadh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hashtagw/public_html/maze/templates/sidebar.php:44) in /home/hashtagw/public_html/maze/views/customers/add.php on line 111
+[13-Mar-2025 10:37:57 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:07 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:07 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:07 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:09 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:09 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 13
+[13-Mar-2025 10:38:09 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 13
+[13-Mar-2025 10:38:10 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:10 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 13
+[13-Mar-2025 10:38:10 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 13
+[13-Mar-2025 10:38:11 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:11 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:12 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:19 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:19 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/edit.php on line 13
+[13-Mar-2025 10:38:19 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/edit.php on line 13
+[13-Mar-2025 10:38:19 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:19 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/edit.php on line 13
+[13-Mar-2025 10:38:19 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/edit.php on line 13
+[13-Mar-2025 10:38:21 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:21 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:21 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:50 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:50 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:50 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:51 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:52 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:52 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:38:52 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 27
+[13-Mar-2025 10:39:47 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:47 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:48 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:53 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:53 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 13
+[13-Mar-2025 10:39:53 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 13
+[13-Mar-2025 10:39:53 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:53 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 13
+[13-Mar-2025 10:39:53 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 13
+[13-Mar-2025 10:39:56 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:56 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:57 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:57 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:57 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/edit.php on line 13
+[13-Mar-2025 10:39:57 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/edit.php on line 13
+[13-Mar-2025 10:39:58 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:58 Asia/Riyadh] PHP Warning:  require_once(../../../includes/auth.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/edit.php on line 13
+[13-Mar-2025 10:39:58 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '../../../includes/auth.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/edit.php on line 13
+[13-Mar-2025 10:39:59 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:59 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:39:59 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:40:08 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:40:08 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:40:08 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:40:09 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:08 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:08 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:08 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:09 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:09 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:10 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:12 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:12 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Event.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:12 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Event.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:12 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:12 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Event.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:12 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Event.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:13 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:13 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Event.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:13 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Event.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:14 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:14 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Event.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:14 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Event.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:14 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:14 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Event.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:14 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Event.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:15 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:15 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Event.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:15 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Event.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:26 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:27 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:27 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:28 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:28 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:28 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:32 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:32 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Event.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:32 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Event.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:32 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:41:32 Asia/Riyadh] PHP Warning:  require_once(/home/hashtagw/public_html/maze/classes/Event.php): failed to open stream: No such file or directory in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:41:32 Asia/Riyadh] PHP Fatal error:  require_once(): Failed opening required '/home/hashtagw/public_html/maze/classes/Event.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hashtagw/public_html/maze/views/customers/view.php on line 23
+[13-Mar-2025 10:42:36 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:42:36 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:42:37 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:42:45 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:42:45 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:42:45 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23
+[13-Mar-2025 10:42:45 Asia/Riyadh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hashtagw/public_html/maze/public/index.php on line 23

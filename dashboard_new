@@ -1,0 +1,101 @@
+<?php
+// منع الوصول المباشر للملف
+if (!defined('BASEPATH')) {
+    exit('لا يمكن الوصول المباشر لهذا الملف');
+}
+
+// تعيين عنوان الصفحة
+$page_title = 'لوحة التحكم';
+?>
+
+<!-- أنماط CSS إضافية مباشرة في الصفحة -->
+<style>
+    .dashboard-header {
+        background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+        padding: 2rem;
+        border-radius: 12px;
+        color: white;
+        margin-bottom: 2rem;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+    
+    .stats-card {
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        transition: transform 0.3s;
+        margin-bottom: 20px;
+        min-height: 150px;
+    }
+    
+    .stats-card:hover {
+        transform: translateY(-5px);
+    }
+</style>
+
+<div class="container-fluid py-4">
+    <!-- ترويسة لوحة التحكم -->
+    <div class="dashboard-header">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h1>مرحباً بك في نظام ميز للضيافة</h1>
+                <p>لوحة التحكم الرئيسية</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- بطاقات الإحصائيات البسيطة -->
+    <div class="row">
+        <div class="col-md-3">
+            <div class="stats-card bg-primary text-white p-4">
+                <h5>العملاء</h5>
+                <h3>0</h3>
+            </div>
+        </div>
+        
+        <div class="col-md-3">
+            <div class="stats-card bg-success text-white p-4">
+                <h5>الفعاليات</h5>
+                <h3>0</h3>
+            </div>
+        </div>
+        
+        <div class="col-md-3">
+            <div class="stats-card bg-info text-white p-4">
+                <h5>المدفوعات</h5>
+                <h3>0</h3>
+            </div>
+        </div>
+        
+        <div class="col-md-3">
+            <div class="stats-card bg-warning text-white p-4">
+                <h5>التكاليف</h5>
+                <h3>0</h3>
+            </div>
+        </div>
+    </div>
+    
+    <!-- محتوى إضافي -->
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">روابط سريعة</h5>
+                    <div class="row">
+                        <div class="col-md-3 text-center mb-3">
+                            <a href="#" class="btn btn-primary btn-lg w-100">إضافة عميل</a>
+                        </div>
+                        <div class="col-md-3 text-center mb-3">
+                            <a href="#" class="btn btn-success btn-lg w-100">إضافة فعالية</a>
+                        </div>
+                        <div class="col-md-3 text-center mb-3">
+                            <a href="#" class="btn btn-info btn-lg w-100">تسجيل مدفوعات</a>
+                        </div>
+                        <div class="col-md-3 text-center mb-3">
+                            <a href="#" class="btn btn-warning btn-lg w-100">التقارير</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

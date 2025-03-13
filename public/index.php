@@ -5,10 +5,6 @@
 
 // تحديد مسار القاعدة للنظام
 define('BASEPATH', dirname(__DIR__));
-// إظهار جميع الأخطاء
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
 
 
 // تحميل ملفات الإعدادات
